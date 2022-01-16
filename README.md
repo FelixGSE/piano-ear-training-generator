@@ -1,2 +1,3 @@
 # piano-ear-training-generator
-TBA
+
+Small project to generate small clips of piano notes and chords for ear training.

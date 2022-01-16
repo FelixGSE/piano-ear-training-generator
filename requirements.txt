@@ -1,0 +1,6 @@
+git+https://github.com/FelixGSE/pypiano.git@v0.1.2
+pyttsx3==2.90
+moviepy==1.0.3
+Pillow==9.0.0
+pydub==0.25.1
+simple-youtube-api==0.2.8
